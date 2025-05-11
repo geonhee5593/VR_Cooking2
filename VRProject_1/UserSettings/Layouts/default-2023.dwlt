@@ -14,16 +14,29 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< Updated upstream
     x: 0
+<<<<<<< HEAD
     y: 42.666668
     width: 1706.6667
     height: 984
+=======
+    y: 43
+    width: 2560
+    height: 1357
+=======
+    x: -151.33334
+    y: 98
+    width: 1706.6667
+    height: 972.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_ShowMode: 4
   m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -44,8 +57,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1706.6666
     height: 984
+=======
+<<<<<<< Updated upstream
+    width: 2560
+    height: 1357
+=======
+    width: 1706.6667
+    height: 972.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
@@ -69,7 +92,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1706.6666
+=======
+<<<<<<< Updated upstream
+    width: 2560
+=======
+    width: 1706.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -90,8 +121,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 964
     width: 1706.6666
+=======
+<<<<<<< Updated upstream
+    y: 1337
+    width: 2560
+=======
+    y: 952.6667
+    width: 1706.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -114,12 +155,30 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1706.6666
     height: 934
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 139
+=======
+<<<<<<< Updated upstream
+    width: 2560
+    height: 1307
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 37
+=======
+    width: 1706.6667
+    height: 922.6667
+  m_MinSize: {x: 300, y: 100}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 52
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,12 +198,26 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1290.6666
     height: 934
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
   controlID: 38
+=======
+<<<<<<< Updated upstream
+    width: 1936
+    height: 1307
+=======
+    width: 1290.6666
+    height: 922.6667
+>>>>>>> Stashed changes
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 53
+>>>>>>> Geonhee
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,12 +237,26 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1290.6666
     height: 614
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
   controlID: 39
+=======
+<<<<<<< Updated upstream
+    width: 1936
+    height: 861
+=======
+    width: 1290.6666
+    height: 592.6667
+>>>>>>> Stashed changes
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 44
+>>>>>>> Geonhee
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -187,13 +274,23 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 304.66666
     height: 614
+=======
+<<<<<<< Updated upstream
+    width: 456
+    height: 861
+=======
+    width: 304.66666
+    height: 592.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
-  m_ActualView: {fileID: 15}
+  m_ActualView: {fileID: 16}
   m_Panes:
-  - {fileID: 15}
+  - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &9
@@ -213,13 +310,26 @@ MonoBehaviour:
     serializedVersion: 2
     x: 304.66666
     y: 0
+<<<<<<< HEAD
     width: 986
     height: 614
+=======
+<<<<<<< Updated upstream
+    width: 1480
+    height: 861
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 17}
+=======
+    width: 986
+    height: 592.6667
+>>>>>>> Geonhee
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
+>>>>>>> Stashed changes
   m_Panes:
-  - {fileID: 16}
+  - {fileID: 17}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &10
@@ -240,6 +350,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 614
     width: 1290.6666
     height: 320
@@ -247,6 +358,25 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
   controlID: 109
+=======
+<<<<<<< Updated upstream
+    y: 861
+    width: 1936
+    height: 446
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 105
+=======
+    y: 592.6667
+    width: 1290.6666
+    height: 330
+  m_MinSize: {x: 200, y: 50}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 54
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -264,14 +394,25 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 732
     height: 320
+=======
+<<<<<<< Updated upstream
+    width: 1235
+    height: 446
+=======
+    width: 1086
+    height: 330
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 18}
   m_Panes:
-  - {fileID: 17}
   - {fileID: 18}
+  - {fileID: 19}
+  - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &12
@@ -289,15 +430,29 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 732
     y: 0
     width: 558.6666
     height: 320
+=======
+<<<<<<< Updated upstream
+    x: 1235
+    y: 0
+    width: 701
+    height: 446
+=======
+    x: 1086
+    y: 0
+    width: 204.66663
+    height: 330
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 15}
   m_Panes:
-  - {fileID: 14}
+  - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &13
@@ -317,16 +472,183 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1290.6666
     y: 0
+<<<<<<< HEAD
     width: 416
     height: 934
+=======
+<<<<<<< Updated upstream
+    width: 624
+    height: 1307
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 20}
+=======
+    width: 416.00012
+    height: 922.6667
+>>>>>>> Geonhee
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 19}
+>>>>>>> Stashed changes
   m_Panes:
-  - {fileID: 19}
+  - {fileID: 20}
   m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+    m_TextWithWhitespace: "Project\u200B"
+  m_Pos:
+    serializedVersion: 2
+    x: 0
+    y: 934
+    width: 1234
+    height: 425
+  m_SerializedDataModeController:
+    m_DataMode: 0
+    m_PreferredDataMode: 0
+    m_SupportedDataModes: 
+    isAutomatic: 1
+  m_ViewDataDictionary: {fileID: 0}
+  m_OverlayCanvas:
+    m_LastAppliedPresetName: Default
+    m_SaveData: []
+    m_ContainerData: []
+    m_OverlaysVisible: 1
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SkipHidden: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Scripts
+    m_Globs: []
+    m_ProductIds: 
+    m_AnyWithAssetOrigin: 0
+    m_OriginalText: 
+    m_ImportLogFlags: 0
+    m_FilterByTypeIntersection: 0
+  m_ViewMode: 1
+  m_StartGridSize: 16
+  m_LastFolders:
+  - Assets/Scripts
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\VR_Cooking2\\VRProject_1"
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: b4b50000
+    m_LastClickedID: 46516
+    m_ExpandedIDs: 0000000034b5000036b50000acb50000cc0a0100120b0100200b01002c0b010000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_TrimLeadingAndTrailingWhitespace: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 0000000034b5000036b50000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_TrimLeadingAndTrailingWhitespace: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: 4e0c0100
+    m_LastClickedInstanceID: 68686
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: 
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_TrimLeadingAndTrailingWhitespace: 0
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 16
+  m_SkipHiddenPackages: 0
+  m_DirectoriesAreaWidth: 200
+--- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -348,10 +670,24 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 732
     y: 686.6667
     width: 556.6666
     height: 299
+=======
+<<<<<<< Updated upstream
+    x: 1235
+    y: 934
+    width: 699
+    height: 425
+=======
+    x: 934.6667
+    y: 720.6667
+    width: 202.66663
+    height: 309
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -369,7 +705,15 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 556.6666, y: 278}
+=======
+<<<<<<< Updated upstream
+  m_TargetSize: {x: 699, y: 404}
+=======
+  m_TargetSize: {x: 202.66663, y: 288}
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -384,10 +728,24 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -185.55554
     m_HBaseRangeMax: 185.55554
     m_VBaseRangeMin: -92.66667
     m_VBaseRangeMax: 92.66667
+=======
+<<<<<<< Updated upstream
+    m_HBaseRangeMin: -349.5
+    m_HBaseRangeMax: 349.5
+    m_VBaseRangeMin: -202
+    m_VBaseRangeMax: 202
+=======
+    m_HBaseRangeMin: -67.55554
+    m_HBaseRangeMax: 67.55554
+    m_VBaseRangeMin: -96
+    m_VBaseRangeMax: 96
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -405,16 +763,31 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
       width: 556.6666
       height: 278
     m_Scale: {x: 1.5, y: 1.5}
     m_Translation: {x: 278.3333, y: 139}
+=======
+<<<<<<< Updated upstream
+      width: 699
+      height: 404
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 349.5, y: 202}
+=======
+      width: 202.66663
+      height: 288
+    m_Scale: {x: 1.5, y: 1.5}
+    m_Translation: {x: 101.33331, y: 144}
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -185.55554
       y: -92.666664
       width: 371.11108
@@ -422,12 +795,31 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 834.99994, y: 448.5}
+=======
+<<<<<<< Updated upstream
+      x: -349.5
+      y: -202
+      width: 699
+      height: 404
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 699, y: 425}
+=======
+      x: -67.55554
+      y: -96
+      width: 135.11108
+      height: 192
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 303.99994, y: 463.5}
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000001000000000000
   m_XRRenderMode: -1
   m_RenderTexture: {fileID: 0}
---- !u!114 &15
+--- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -449,10 +841,23 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
     x: 0
+<<<<<<< HEAD
     y: 72.66667
     width: 303.66666
     height: 593
+=======
+    y: 73
+    width: 455
+    height: 840
+=======
+    x: -151.33334
+    y: 128
+    width: 303.66666
+    height: 571.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -467,9 +872,19 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: 
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: e2faffff
+=======
+      m_ExpandedIDs: 3c0affffbc71ffffc671ffffb27cffffeec3ffff40daffff78f9ffffd8fafffff6b00000feb00000c8b10000feb10000
+=======
+      m_SelectedIDs: 6cb00000
+      m_LastClickedID: 45164
+      m_ExpandedIDs: 34c5f9ff5ec5f9ff12c7f9ff9444faff1245faff8a78ffff7481ffffe2faffff3eb000008eb00000dab0000016b10000
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -494,7 +909,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 4c969a2b90040154d917609493e03593
---- !u!114 &16
+--- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -516,10 +931,24 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 304.6667
     y: 72.66667
     width: 984
     height: 593
+=======
+<<<<<<< Updated upstream
+    x: 456
+    y: 73
+    width: 1478
+    height: 840
+=======
+    x: 153.33334
+    y: 128
+    width: 984
+    height: 571.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -994,7 +1423,7 @@ MonoBehaviour:
       scrollOffset: 0
     m_OverlaysVisible: 1
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
-  m_Gizmos: 1
+  m_Gizmos: 0
   m_OverrideSceneCullingMask: 6917529027641081856
   m_SceneIsLit: 1
   m_SceneLighting: 1
@@ -1004,9 +1433,21 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -1.6188987, y: -2.1929216, z: 0.2085259}
     speed: 2
     m_Value: {x: -1.6188987, y: -2.1929216, z: 0.2085259}
+=======
+<<<<<<< Updated upstream
+    m_Target: {x: 2.6559052, y: 0.13508281, z: 4.857356}
+    speed: 2
+    m_Value: {x: 2.6559052, y: 0.13508281, z: 4.857356}
+=======
+    m_Target: {x: 22.648226, y: 5.7301874, z: 1.7469709}
+    speed: 2
+    m_Value: {x: 22.648226, y: 5.7301874, z: 1.7469709}
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1052,6 +1493,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: -0.21791771, y: -0.3571669, z: 0.086079754, w: -0.90418184}
     speed: 2
     m_Value: {x: -0.21791773, y: -0.3571669, z: 0.08607976, w: -0.9041819}
@@ -1059,13 +1501,37 @@ MonoBehaviour:
     m_Target: 4.3439727
     speed: 2
     m_Value: 4.3439727
+=======
+<<<<<<< Updated upstream
+    m_Target: {x: 0.09115597, y: 0.30812457, z: -0.029649487, w: 0.9465603}
+    speed: 2
+    m_Value: {x: 0.09110658, y: 0.30952772, z: -0.029784616, w: 0.9460471}
+  m_Size:
+    m_Target: 3.0512772
+    speed: 2
+    m_Value: 3.0512772
+=======
+    m_Target: {x: 0.07650378, y: -0.7234394, z: -0.080804646, w: -0.68144}
+    speed: 2
+    m_Value: {x: 0.07649968, y: -0.7234006, z: -0.08080031, w: -0.68140346}
+  m_Size:
+    m_Target: 9.889129
+    speed: 2
+    m_Value: 9.889129
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+<<<<<<< Updated upstream
+    m_Speed: 0.17
+    m_SpeedNormalized: 0.084542274
+=======
+    m_Speed: 1.3003497
+    m_SpeedNormalized: 0.64999986
+>>>>>>> Stashed changes
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -1079,7 +1545,7 @@ MonoBehaviour:
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
-    m_SceneView: {fileID: 16}
+    m_SceneView: {fileID: 17}
     m_CameraOverscanSettings:
       m_Opacity: 50
       m_Scale: 1
@@ -1089,7 +1555,7 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_LastDebugDrawMode: 35
   m_ViewIsLockedToObject: 0
---- !u!114 &17
+--- !u!114 &18
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1111,10 +1577,23 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< Updated upstream
     x: 0
+<<<<<<< HEAD
     y: 686.6667
     width: 731
     height: 299
+=======
+    y: 934
+    width: 1234
+    height: 425
+=======
+    x: -151.33334
+    y: 720.6667
+    width: 1085
+    height: 309
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1137,7 +1616,15 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Packages/com.unity.render-pipelines.universal/Runtime/Materials
+=======
+<<<<<<< Updated upstream
+    - Assets/sounds
+=======
+    - Assets/Resources/Orders
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1147,6 +1634,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 67
   m_LastFolders:
+<<<<<<< HEAD
   - Packages/com.unity.render-pipelines.universal/Runtime/Materials
   m_LastFoldersGridSize: 67
   m_LastProjectPath: "C:\\Users\\hangu\\OneDrive\\\uBB38\uC11C\\GitHub\\VR_Cooking2\\VRProject_1"
@@ -1157,6 +1645,31 @@ MonoBehaviour:
     m_SelectedIDs: c8b40000
     m_LastClickedID: 46280
     m_ExpandedIDs: 0000000002b40000b8b40000cab4000000ca9a3bffffff7f
+=======
+<<<<<<< Updated upstream
+  - Assets/sounds
+  m_LastFoldersGridSize: 16
+  m_LastProjectPath: "C:\\Users\\user\\OneDrive\\\uBB38\uC11C\\GitHub\\VR_Cooking2\\VRProject_1"
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 86}
+    m_SelectedIDs: 4a0c0100
+    m_LastClickedID: 68682
+    m_ExpandedIDs: 0000000034b5000036b50000120b0100200b01002c0b010000ca9a3b
+=======
+  - Assets/Resources/Orders
+  m_LastFoldersGridSize: 67
+  m_LastProjectPath: "C:\\Users\\hangu\\OneDrive\\\uBB38\uC11C\\GitHub\\VR_Cooking2\\VRProject_1"
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: 00220100
+    m_LastClickedID: 74240
+    m_ExpandedIDs: 000000000cb40000a6b40000ceb40000e0b40000140f0100fc0f01001c100100fc21010000ca9a3bffffff7f
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1173,7 +1686,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 11}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1185,7 +1698,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000002b40000
+=======
+<<<<<<< Updated upstream
+    m_ExpandedIDs: 0000000034b5000036b50000
+=======
+    m_ExpandedIDs: 000000000cb40000
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1213,8 +1734,17 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
+=======
+    m_HadKeyboardFocusLastEvent: 1
+<<<<<<< Updated upstream
+    m_ExpandedInstanceIDs: c62300007cb70000
+=======
+    m_ExpandedInstanceIDs: c623000016160100
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1231,7 +1761,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 11}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1240,10 +1770,14 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
+<<<<<<< HEAD
     m_GridSize: 67
+=======
+    m_GridSize: 16
+>>>>>>> Geonhee
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
---- !u!114 &18
+--- !u!114 &19
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1266,9 +1800,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 633
-    width: 768
-    height: 366
+<<<<<<< Updated upstream
+    y: 934
+    width: 1234
+    height: 425
+=======
+    y: 686
+    width: 731
+    height: 299.6667
+>>>>>>> Stashed changes
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1280,7 +1820,7 @@ MonoBehaviour:
     m_SaveData: []
     m_ContainerData: []
     m_OverlaysVisible: 1
---- !u!114 &19
+--- !u!114 &20
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1302,10 +1842,24 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1290.6667
     y: 72.66667
     width: 415
     height: 913
+=======
+<<<<<<< Updated upstream
+    x: 1936
+    y: 73
+    width: 623
+    height: 1286
+=======
+    x: 1291.6666
+    y: 19
+    width: 415.00012
+    height: 901.6667
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0

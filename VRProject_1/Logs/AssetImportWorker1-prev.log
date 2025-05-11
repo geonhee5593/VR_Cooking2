@@ -1,16 +1,25 @@
 Using pre-set license
 Built from '2023.2/staging' branch; Version is '2023.2.20f1 (0e25a174756c) revision 927137'; Using compiler version '193431935'; Build Type 'Release'
+<<<<<<< HEAD
 OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 7916 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\2023.2.20f1\Editor\Unity.exe
+=======
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'ko' Physical Memory: 32680 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\2023.2.20f1\Editor\Unity.exe
+>>>>>>> Geonhee
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
+<<<<<<< HEAD
 C:/Users/hangu/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
 -logFile
 Logs/AssetImportWorker1.log
@@ -18,12 +27,26 @@ Logs/AssetImportWorker1.log
 51721
 -job-worker-count
 3
+=======
+C:/Users/user/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+60191
+-job-worker-count
+5
+>>>>>>> Geonhee
 -background-job-worker-count
 8
 -asset-garbage-collectors
 1
+<<<<<<< HEAD
 Successfully changed project path to: C:/Users/hangu/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
 C:/Users/hangu/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
+=======
+Successfully changed project path to: C:/Users/user/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
+C:/Users/user/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
+>>>>>>> Geonhee
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -58,6 +81,7 @@ C:/Users/hangu/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Player connection [8536] Host "[IP] 192.168.219.125 [Port] 0 [Flags] 2 [Guid] 495847220 [EditorId] 495847220 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJI8FOO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 Player connection [8536] Host "[IP] 192.168.219.125 [Port] 0 [Flags] 2 [Guid] 495847220 [EditorId] 495847220 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-IJI8FOO) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 3
@@ -90,10 +114,48 @@ Mono: successfully reloaded assembly
 - Finished resetting the current domain, in  0.874 seconds
 Domain Reload Profiling: 4345ms
 	BeginReloadAssembly (2952ms)
+=======
+Player connection [25348] Host "[IP] 192.168.50.229 [Port] 0 [Flags] 2 [Guid] 2338277777 [EditorId] 2338277777 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-28PIDPN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [25348] Host "[IP] 192.168.50.229 [Port] 0 [Flags] 2 [Guid] 2338277777 [EditorId] 2338277777 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-28PIDPN) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 10.52 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.84 ms.
+Initialize engine version: 2023.2.20f1 (0e25a174756c)
+[Subsystems] Discovering subsystems at path C:/Program Files/2023.2.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/OneDrive/문서/GitHub/VR_Cooking2/VRProject_1/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2503)
+    Vendor:   NVIDIA
+    VRAM:     12115 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/2023.2.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/2023.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/2023.2.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56896
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/2023.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/2023.2.20f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.011335 seconds.
+- Loaded All Assemblies, in  0.699 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 423 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.993 seconds
+Domain Reload Profiling: 1681ms
+	BeginReloadAssembly (244ms)
+>>>>>>> Geonhee
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 		CreateAndSetChildDomain (2ms)
 	RebuildCommonClasses (80ms)
 	RebuildNativeTypeToScriptingClass (23ms)
@@ -116,6 +178,30 @@ Domain Reload Profiling: 4345ms
 			BeforeProcessingInitializeOnLoad (18ms)
 			ProcessInitializeOnLoadAttributes (591ms)
 			ProcessInitializeOnLoadMethodAttributes (105ms)
+=======
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (90ms)
+	LoadAllAssembliesAndSetupDomain (282ms)
+		LoadAssemblies (234ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (278ms)
+			TypeCache.Refresh (276ms)
+				TypeCache.ScanAssembly (256ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (994ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (902ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (575ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (218ms)
+			ProcessInitializeOnLoadMethodAttributes (89ms)
+>>>>>>> Geonhee
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -124,10 +210,18 @@ Domain Reload Profiling: 4345ms
 Worker process is ready to serve import requests
 Import Worker Mode flag is 0x00
 Begin MonoManager ReloadAssembly
+<<<<<<< HEAD
 Symbol file LoadedFromMemory doesn't match image C:\Users\hangu\OneDrive\문서\GitHub\VR_Cooking2\VRProject_1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\hangu\OneDrive\문서\GitHub\VR_Cooking2\VRProject_1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 - Loaded All Assemblies, in 10.002 seconds
 Refreshing native plugins compatible for Editor in 9.96 ms, found 6 plugins.
+=======
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\OneDrive\문서\GitHub\VR_Cooking2\VRProject_1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\OneDrive\문서\GitHub\VR_Cooking2\VRProject_1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  1.780 seconds
+Refreshing native plugins compatible for Editor in 10.54 ms, found 6 plugins.
+Native extension for Android target not found
+>>>>>>> Geonhee
 Native extension for WindowsStandalone target not found
 [MODES] ModeService[none].Initialize
 [MODES] ModeService[none].LoadModes
@@ -150,6 +244,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Finished resetting the current domain, in  1.725 seconds
 Domain Reload Profiling: 11713ms
 	BeginReloadAssembly (1186ms)
@@ -197,10 +292,60 @@ Received Import Request.
   path: Assets/Materials/TeleportationArea.mat
   artifactKey: Guid(b3db23648dfc9a24297c630748220ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Materials/TeleportationArea.mat using Guid(b3db23648dfc9a24297c630748220ed1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd0b1e6c62abcd7987e30cd84242fe0f6') in 1.3756969 seconds
+=======
+- Finished resetting the current domain, in  1.417 seconds
+Domain Reload Profiling: 3168ms
+	BeginReloadAssembly (646ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (41ms)
+	RebuildCommonClasses (68ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (939ms)
+		LoadAssemblies (802ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (343ms)
+			TypeCache.Refresh (282ms)
+				TypeCache.ScanAssembly (255ms)
+			BuildScriptInfoCaches (43ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1418ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1017ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (200ms)
+			ProcessInitializeOnLoadAttributes (620ms)
+			ProcessInitializeOnLoadMethodAttributes (132ms)
+			AfterProcessingInitializeOnLoad (29ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (25ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 7.99 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Unloading 184 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6445 unused Assets / (5.8 MB). Loaded Objects now: 7169.
+Memory consumption went from 179.2 MB to 173.3 MB.
+Total: 12.196300 ms (FindLiveObjects: 0.767700 ms CreateObjectMapping: 1.676400 ms MarkObjects: 6.327300 ms  DeleteObjects: 3.423800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 529330.941465 seconds.
+  path: Assets/Objects/Vegetable/tomato/Tomato.mat
+  artifactKey: Guid(f631942471819cc49af6bdb423f921fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/Tomato.mat using Guid(f631942471819cc49af6bdb423f921fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c52b5a783eb58a407ba71e1428cb00f7') in 0.6637896 seconds
+>>>>>>> Geonhee
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 31.366643 seconds.
   path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/FullscreenInvertColors.mat
   artifactKey: Guid(78a08787ca30045abb69f6f7dd878e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -246,10 +391,18 @@ Received Import Request.
   artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '00350b0be82916402eac301cc186db07') in 0.0335899 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+=======
+  Time since last request: 0.000042 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_coller2.png
+  artifactKey: Guid(ad18c392202ea1a4b95af6373f1a7a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_coller2.png using Guid(ad18c392202ea1a4b95af6373f1a7a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13b5ed6b900fb68d3a20c9958ae890da') in 0.0444053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+>>>>>>> Geonhee
 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000037 seconds.
+<<<<<<< HEAD
   path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
   artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7ab0c4a4ba6527a07eb36a0f407d0f79') in 0.060697 seconds
@@ -259,3 +412,74 @@ Editor requested this worker to shutdown with reason: Scaling down because of id
 AssetImportWorker is now disconnected from the server
 Process exiting
 Exiting without the bug reporter. Application will terminate with return code 0
+=======
+  path: Assets/Objects/Vegetable/tomato/tomatoheta2.png
+  artifactKey: Guid(0db615047443e7c4a889b93948e91fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomatoheta2.png using Guid(0db615047443e7c4a889b93948e91fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6d3901ad2d167fcc7fd6d29b1fc232c3') in 0.0255562 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_roughness.png
+  artifactKey: Guid(e92ce2749f48b1946bd24b5b5e08b68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_roughness.png using Guid(e92ce2749f48b1946bd24b5b5e08b68c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '74def824845116d038729fac8f0e938d') in 0.0227638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_cut_roughness3_for_unity.png
+  artifactKey: Guid(8c7d4917dac931842b8801c56d4e24dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_cut_roughness3_for_unity.png using Guid(8c7d4917dac931842b8801c56d4e24dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b94f44f9caf2b7cb864a69f254cafde8') in 0.022444 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_bunkatu_hontai.png
+  artifactKey: Guid(5c5a0c140fe61d74581e9b3fb284b0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_bunkatu_hontai.png using Guid(5c5a0c140fe61d74581e9b3fb284b0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4aff289b11b993390bf372f9783060d7') in 0.0200343 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_normal2_for_bake.png
+  artifactKey: Guid(ccb96a60f2c318d4583e16643d2c51a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_normal2_for_bake.png using Guid(ccb96a60f2c318d4583e16643d2c51a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97c80036ba5a2cc94b725d78032c90aa') in 0.0254288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_texture_sp.png
+  artifactKey: Guid(09baa74be86f4ac479685032b7a878f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_texture_sp.png using Guid(09baa74be86f4ac479685032b7a878f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '84552e771457f3536665071aa200ce4e') in 0.0233456 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato_cut_normal3.jpg
+  artifactKey: Guid(c753f5130d1406b41a1b697acd6d6863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato_cut_normal3.jpg using Guid(c753f5130d1406b41a1b697acd6d6863) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b998e410bc22c1d5a59f4d80ab7dc932') in 0.0332703 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomatohetaalfa.png
+  artifactKey: Guid(2318ca29734ae7f42bcc67a2d7c9a1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomatohetaalfa.png using Guid(2318ca29734ae7f42bcc67a2d7c9a1bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '236ebb6a3ef35cda387cfdba2b7d76c9') in 0.0274922 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Objects/Vegetable/tomato/tomato inner.png
+  artifactKey: Guid(14146169d5107914ca97554f1b90045f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objects/Vegetable/tomato/tomato inner.png using Guid(14146169d5107914ca97554f1b90045f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e5310ab048bbebe90535a5e0ae97cccc') in 0.0223807 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+>>>>>>> Geonhee

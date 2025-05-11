@@ -9,7 +9,14 @@ namespace UnityEditor.XR.Management.Metadata
     internal class KnownPackages
     {
 #if UNITY_XR_VISIONOS_SUPPORTED
+<<<<<<< HEAD
         [XRCustomLoaderUI(k_VisionOSLoaderTypeName, BuildTargetGroup.VisionOS)]
+=======
+<<<<<<< Updated upstream
+=======
+        
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
         class VisionOSCustomLoaderUI : IXRCustomLoaderUI
         {
             GUIContent m_LabelContent;
@@ -229,7 +236,14 @@ namespace UnityEditor.XR.Management.Metadata
                             loaderName = k_VisionOSLoaderName,
                             loaderType = k_VisionOSLoaderTypeName,
                             supportedBuildTargets = new List<BuildTargetGroup>() {
+<<<<<<< HEAD
                                 BuildTargetGroup.VisionOS
+=======
+<<<<<<< Updated upstream
+=======
+                                
+>>>>>>> Stashed changes
+>>>>>>> Geonhee
                             },
                         },
                     },
